@@ -5,3 +5,6 @@ print("Hello, I\'m gittie!")
         print("You can add a new joke")
     else:
         continue
+
+def joke()
+    print("Knock,knock...")

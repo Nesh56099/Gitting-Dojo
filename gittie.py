@@ -1,4 +1,8 @@
 print("Hello, I\'m gittie!")
 
-def joke()
+
+def joke():
     print("Knock,knock...")
+
+
+joke()gt
